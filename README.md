@@ -12,7 +12,8 @@ Then do the following:
 1. mvn clean install
 ```
 
-This will ensure that all the unit test cases pass (note: this will generate a fair amount of logging) and also that the programme will run. 
+This will ensure that all the unit test cases pass (note: this will generate a fair amount of logging) and also that the programme will run.  
+Note: In the logging of the unit tests, there will be two exceptions thrown - this is normal and is part of the test.  
 
 
 Enjoy!  
